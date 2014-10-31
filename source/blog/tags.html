@@ -1,0 +1,22 @@
+---
+layout: default
+title: Tags
+type: page
+comment: no
+header:
+use:
+    - posts_tags
+---
+<h2>Tags</h2>
+
+<div>
+<ul class="list-unstyled">
+{% for tag,posts in data.posts_tags %}
+<li>
+<span class="subheading">
+    <i class="fa fa-arrow-right"></i><a href="{{ site.url }}/blog/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>
+</span>
+</li>
+{% endfor %}
+</ul>
+</div>

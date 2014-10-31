@@ -1,0 +1,14 @@
+sculpin_content_types:
+    posts:
+        permalink: blog/:year/:month/:day/:filename/
+
+sculpin_content_types:
+    projects:
+        permalink: project/:filename/
+        type: path
+        path: _projects
+        singular_name: project
+        layout: default
+        enabled: true
+        taxonomies:
+            - tags

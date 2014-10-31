@@ -1,0 +1,12 @@
+# The contents of this file are parsed and made available as
+# via `site.*`. So for example, {{ site.title }} can be used
+# in a template to get the contents of the `title` key.
+
+title: mustafa.my.id
+subject: Everything About Web Development.
+subtitle: Never Stop Learning
+author: M. Zaenal
+keyword: Tanjungpinang,Laravel Indonesia,bintan island,stti Tanjungpinang,KPLI Kepulauan Riau,KPLI Kepri,Linux Indonesia,Web Development
+github: http://www.github.com/zendzo/
+facebook: http://www.facebook.com/ikzlove/
+twitter: http://www.twitter.com/zendzzo/

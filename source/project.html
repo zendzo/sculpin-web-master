@@ -1,0 +1,27 @@
+---
+layout: default
+generator: pagination
+comment: no
+type: page
+header: /assets/img/home-bg.jpg
+pagination:
+    max_per_page: 5
+use: [projects]
+---
+{% for project in data.projects %}
+    <div class="post-preview">
+        <header>
+            <h1 class="post-title">
+            <a href="{{ site.url }}{{ project.url }}">{{ project.title| title }}</a>
+            </h1>
+        </header>
+        <div>
+            {{ project.blocks.content|raw|striptags|slice(0,200) }}
+        </div>
+        <br>
+        <div>
+            <img src="{{ project.image }}" alt="{{ project.title }}" class="img-responsive img-thumbnail" width="750" height="350">
+        </div>
+        <br>
+    </div>
+{% endfor %}

@@ -1,0 +1,31 @@
+{% include 'includes/header.html' %}
+
+<body>
+
+{% include 'includes/navigation.html' %}
+
+{% include 'includes/head.html' %}
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            {% block content %}
+
+            {% endblock %}
+            </div>
+        </div>
+    </div>
+{% if page.type == 'post' %}
+    {% include 'includes/share.html' %}
+{% endif %}
+
+{% include 'includes/foot.html' %}
+
+<hr>
+
+{% if page.type == 'post' %}
+    {% include 'includes/comment.html' %}
+{% endif %}
+
+{% include 'includes/footer.html' %}

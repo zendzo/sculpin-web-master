@@ -1,0 +1,22 @@
+---
+layout: default
+title: Categories
+comment: no
+type: page
+header:
+use:
+    - posts_categories
+---
+<h2>Categories</h2>
+
+<div>
+<ul class="list-unstyled">
+{% for category,posts in data.posts_categories %}
+<li>
+<span class="subheading">
+   <i class="fa fa-arrow-right"></i><a href="{{ site.url }}/blog/categories/{{ category|url_encode(true) }}">{{ category }}</a>
+</span>
+</li>
+{% endfor %}
+</ul>
+</div>

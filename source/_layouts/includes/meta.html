@@ -1,0 +1,30 @@
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if page.subtitle %}
+        <meta name="description" content="{{ page.subtitle|capitalize }}">
+    {% else %}
+        <meta name="description" content="{{ site.subtitle|capitalize }}">
+    {% endif %}
+
+    {% if page.author %}
+        <meta name="author" content="{{ page.author|capitalize }}">
+    {% else %}
+        <meta name="author" content="{{ site.author|capitalize }}">
+    {% endif %}
+
+    {% if page.keyword %}
+        <meta name="keywords" content="{{ page.keyword|capitalize }}">
+    {% else %}
+        <meta name="keywords" content="{{ site.keyword|capitalize }}">
+    {% endif %}
+
+    <meta name="url" content="{{ site.url }}">
+
+    <meta name="subject" content="{{ site.subject }}">
+
+
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">

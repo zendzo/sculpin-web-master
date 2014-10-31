@@ -1,0 +1,55 @@
+<!-- Page Header -->
+<!-- Set your background image for this header on the line below. -->
+
+<!-- custom Background Post By Twig if. -->
+<header class="intro-header" style="background-image: url(
+{% if page.header %}
+    {{ page.header }}
+{% else %}
+    '/assets/img/home-bg.jpg'
+{% endif %}
+)">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                {% if page.type == 'page' or page.type == 'project' %}
+                    <div class="site-heading">
+                        {% if page.title %}
+                            <h1>
+                                {{ page.title }}
+                            </h1>
+                        {% else %}
+                            <h1>
+                                {{ site.title }}
+                            </h1>
+                        {% endif %}
+                        <hr class="small">
+                            {% if page.subtitle %}
+                                <span class="subheading">
+                                    {{ page.subtitle }}
+                                </span>
+                            {% else %}
+                                <span class="subheading">
+                                    {{ site.subtitle }}
+                                </span>
+                            {% endif %}
+                    </div>
+                {% elseif page.type == 'post' %}
+                    <div class="post-heading">
+                        <h1>
+                            {{ page.title }}
+                        </h1>
+                            <span class="subheading">
+                                {{ page.subtitle }}
+                            </span>
+                        {% if page.author %}
+                            <span class="meta">
+                                Posted by <a href="{{ site.github }}">{{ page.author }}</a>
+                            </span>
+                        {% endif %}
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</header>

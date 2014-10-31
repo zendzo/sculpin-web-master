@@ -1,0 +1,53 @@
+---
+layout: default
+generator: pagination
+comment: no
+type: page
+header: /assets/img/home-bg.jpg
+pagination:
+    max_per_page: 5
+use:
+    - posts
+---
+{% for post in page.pagination.items %}
+    <div class="post-preview">
+        <header>
+            <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title| title }}</a></h2>
+        </header>
+        <div>
+            {{ post.blocks.content|raw|striptags|slice(0,200) }}
+        </div>
+
+        {% if post.meta.tags %}
+            <p class="tags">
+            Tags:
+            {% for tag in post.meta.tags %}
+            <a href="{{ site.url }}/blog/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+            </p>
+        {% endif %}
+
+        {% if post.meta.categories %}
+            <p class="tags">
+            Categories:
+            {% for category in post.meta.categories %}
+            <a href="{{ site.url }}/blog/categories/{{ category|url_encode(true) }}">{{ category }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+            </p>
+        {% endif %}
+
+        <p class="post-meta">Posted by <a href="{{ site.github }}">{{ site.author }}</a></p>
+    </div>
+{% endfor %}
+
+{% if page.pagination.previous_page or page.pagination.next_page %}
+    <ul class="pager">
+        {% if page.pagination.previous_page %}
+        <li class="previous"> <a href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts</a></li>
+        {% endif %}
+        <br />
+        {% if page.pagination.next_page %}
+        <li class="next"><a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a></li>
+        {% endif %}<br />
+    </ul>
+{% endif %}
