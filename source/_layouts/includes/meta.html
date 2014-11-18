@@ -30,7 +30,7 @@
     <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
 
 {% if page.title %}
-            <!-- Open Graph data -->
+        <!-- Open Graph data -->
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="{{ site.url }}" />
@@ -42,6 +42,19 @@
         <meta property="article:section" content="{{ page.subtitle }}" />
         <meta property="article:tag" content="{{ page.tag }}" />
         <meta property="fb:admins" content="1485678631717766" />
+
 {% else %}
+
+        <meta property="og:title" content="{{ site.title }}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="{{ site.url }}" />
+        <meta property="og:image" content="{{ site.header }}" />
+        <meta property="og:description" content="{{ site.subtitle }}" />
+        <meta property="og:site_name" content="{{ page.title }}" />
+        <meta property="article:published_time" content="" />
+        <meta property="article:modified_time" content="" />
+        <meta property="article:section" content="{{ site.subtitle }}" />
+        <meta property="article:tag" content="{{ site.tag }}" />
+        <meta property="fb:admins" content="1485678631717766" />
 
 {% endif %}
