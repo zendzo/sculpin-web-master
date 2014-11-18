@@ -3,6 +3,7 @@ title: Project Pertama
 subtitle: Test Page Project Deploy Today 2014-10-30
 author: M.Zaenal Mustofa
 image: /assets/img/home-bg.jpg
+header: /assets/img/home-bg.jpg
 type: project
  ---
 
