@@ -4,7 +4,7 @@ layout: default
 subtitle: Bahaya Rokok, Jangan Merokok, Gak Sehat! Kampret!
 author: M.Zaenal Mustofa
 comments: yes
-header: /assets/img/home-bg.jpg
+header: /assets/media/post-header/smoking-kills.jpg
 type: post
 tags:
  - Rokok
@@ -110,6 +110,8 @@ dan begitu pula sebaliknya.
 
 ##Perokok Adalah Korban.
 
+![usia muda](/assets/media/upload/korban.jpeg)
+
 ya, kita adalah Korban!
 
 Korban kekejaman diri sendiri, kekejaman iklan dan produsen Rokok! dan mungkin korban lemahnya kebijakan pemerintah.
@@ -124,6 +126,8 @@ tapi mereka dengan cerdiknya memberi acara yang menghibur hanya membuat tertawa,
 selain itu, saya lebih sering liat masyarakat tingkat menengah kebawah yang merokok.
 masyarakat menegah ke-atas tidak merokok, kenapa? karna mereka sadar asuransi kesehatan sudah cukup mahal. mereka tidak sanggup kalo harus beli rokok, selain itu mereka sudah cukup tau hanya merokok.
 
+![miksin](/assets/media/upload/perokok-orang-miskin.jpg)
+
 Pernah liat orang jualan sate?
 apa orangnya makan sate 3x sahari? Enggak!
 pernah liat pengedar narkoba di film? dia kecanduan narkoba gak? rata-rata si enggak. 
@@ -137,6 +141,8 @@ so jangan mau terus terusan mempermiskin diri dan memperkaya orang lain sementar
 seharunysa pemerintah kita mengimbangi iklan rokok dengan iklan bahaya merokok, dengan di iringi testimonial dari para korban yang telah berjatuhan heheh..
 
 **Ralat**
+
+![usia muda](/assets/media/upload/iklan.png)
 
 Terimakasih pemerintah belakangan terakhir sudah menampilkan beberpa iklan bahaya merokok.
 Pernah liat seorang bapak yang lehernya bolong di TV?
@@ -155,6 +161,9 @@ masi ingat gak iklanya? justru yang di dalam iklan yang di tangkap karna kasus k
 oke yang di atas anggap aja hiburan, jadi sejatinya manusia pasti bakalan punya keturunan, dan apa kita mau keturunan kita jadi insan yang tidak berkualitas hanya gara-gara batang rokok.
 keturunan kita juga jadi pecandu rokok di usia muda?
 
+
+![usia muda](/assets/media/upload/muda.jpg)
+
 >Jangan Beri Perintah, Contohkan Bagaimana seharusanya.
 
 ##Bagaimana Cara Berhenti Merokok?
@@ -172,11 +181,15 @@ tanamkan dalam hati **Hari ini saya berhenti Merokok!** dan tentu saja, jangan b
 
 ###janji kepada diri sendiri.
 
+![Kamu Harus Kuat](/assets/media/upload/blog-promise.jpeg)
+
 > orang yang bisa berjanji kepada diri sendiri pasti bisa menepati janji kepada orang lain.
 
 Jadi setelah kita tetapkan sudah berhenti merokok dan tidak membeli lagi, maka selajutnya adalah : selalu ingat sewaktu keinginan merokok datang katakan kepada diri anda sendiri **"Saya sudah tidak mau menyentuh barang haram itu lagi"** sudah cukup ani, cukup kau membuat ku menderita **#KayaFilemRhomaIramaYa** hahahah. 
 
 ###harus ada motivasi.
+
+![Kamu Harus Kuat](/assets/media/upload/how-to-get-motivated.jpg)
 
 yang ini opsional, kalo punya pacar ya mungkin bisa kasi tau pacarnya kalau mulai hari ini sudah tidak merokok lagi, lebih bagus kalo pacar nya atau keluarganya kasi motivasi. biasanya pacar dan keluarga akan sangat mendukung dan ikut senang.
 
@@ -184,13 +197,13 @@ kalo gak punya pacar ya mungkin bisa minta bantuan tukang bubur atau abang roti 
 
 ###Kamu Harus Kuat.
 
-![Kamu Harus Kuat](/asset/media/upload/kuat.jpg)
+![Kamu Harus Kuat](/assets/media/upload/strong.jpg)
 
 ini yang penting, jadi untuk jadi pejantan tangguh kita gak cuma harus jadi kuat fisik dalam angakat karung beras dan galon. Tapi kita juga harus kuat nahan hawa nafsu, jangan sampai niat kita hancur cuma gara mulut Asem Kaya Ketek Hercules, alihkan perhatian ke hal yang penting! itu tipsnya...**#Semangat**
 
 ###self-sugestion.
 
-![Self Sugestion](/assets/media/upload/self-sugestion.jpg)
+![Self Sugestion](/assets/media/upload/self-suggestion.jpg)
 
 ya ini mungkin hanya berlaku buat diri saya sendiri, kadang di kala rasa asem nya sudah stadium 4 akhir heheh.. saya minta rokok ke temen **(Bukan buat di bakar lalu di hisap)**.
 terus di apain?
@@ -206,10 +219,16 @@ untuk sementara hindari nongkrong bareng kawan-kawan yang perokok, karna dekat d
 
 ###jangan lihat orang merokok.
 
+![Manis](/assets/media/upload/100-year-old-smoker.jpg)
+
+
 ini juga penting. saya paling tidak tahan di 1 minggu pertama, setiap melihat orang merokok rasanya ingin cepat kewarung dan maling rokok, #eh beli rokok maksundnya.
 
 
 ###jangan minum yang manis-manis
+
+
+![Manis](/assets/media/upload/cewek-minum-kopi.jpg)
 
 ini juga penting karna minuman manis, seperti kopi,teh,susu. bisa mengundang rasa keinginan merokok yang sangat kuat seperti goku dalam mode super saia heheheh. jadi hindari di 2 minggu pertama, boleh coba kalau di rasa sudah kuat iman untuk tidak bakar rokok.
 
@@ -222,13 +241,15 @@ ini sama seperti di atas, untuk 2 minggu pertama jangan dulu makan hidangan yang
 dan ini adalah saat yang sangat mengahrukan.
 
 
-![crying blackman](/assets/media/upload/crying-blackman.jpg)
+![crying blackman](/assets/media/upload/tears.jpg)
 
 
 pada tahap ini kita sudah berhasil berhenti dan merasa rasa kecanduan atau asem di mulut sudah hiang, dalam mode suntuk ataupun setelah makan pedas. saat nya kita patut bangga kepada diri sendiri dan melakukan hal hal yang berguna.
 
 
 ###Bangga kepada diri sendiri.
+
+![crying blackman](/assets/media/upload/Be-proud.jpg)
 
 saat nya kita memberi penghargaan kepada diri sendiri. entah itu berupa mendali emas atau perunggu hehehe. kan uang merokoknya sudah tidak dipakai lagi? atau malah sedih biasanya di suap pakai uang rokok karna sudah tidak merokok lagi jadi batal di suap? hehehehe.
 
@@ -242,7 +263,7 @@ gak punya alat olah raga?
 Nah kan uang rokok nya sudah bisa di tabung, sekarang saatnya beli alat olah raga. kan gak mungkin jogging pake sepatu kantor, atau malah gak pake sepatu?
 
 
-![jogging lucu](/assets/media/upload/crying-blackman.jpg)
+![jogging lucu](/assets/media/upload/jogging.jpg)
 
 terus apa aja alat olah raga yang mau di beli?
 
@@ -252,6 +273,9 @@ terus apa aja alat olah raga yang mau di beli?
 
 
 ###Makan makanan bergizi.
+
+![jogging lucu](/assets/media/upload/makanan-sehat.jpg)
+
 
 ini juga penting buat memperbaiki kerusakan Paru-paru dan organ yang lain karna rokok. akan memakan biaya yang cukup mahal. kecuali anda makan temen sendiri mungkin akan sedikit lebih murah. dan mendapat sedikit bacokan hahaha..
 
